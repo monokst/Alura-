@@ -1,5 +1,5 @@
 # Landing page de uma plataforma de streaming
-O projeto é uma plataforma de streaming. Foi feito por uma das aulas do curso Alura de HTML e CSS.
+Projeto inspirado em uma plataforma de streaming. Foi feito a partir de uma das aulas do curso Alura de HTML e CSS.
 
 
 ![Captura de Tela (21)](https://github.com/user-attachments/assets/e9a06309-ed85-41e8-84a5-c3153dca6dd6)
