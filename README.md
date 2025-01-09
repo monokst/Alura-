@@ -2,8 +2,7 @@
 O projeto é uma plataforma de streaming. Foi feito por uma das aulas do curso Alura de HTML e CSS.
 
 
-![Captura de Tela (21)](https://github.com/user-attachments/assets/97a874c8-2a44-4aa3-8938-bfa1fcd4ac44)
-
+![Captura de Tela (21)](https://github.com/user-attachments/assets/e9a06309-ed85-41e8-84a5-c3153dca6dd6)
 
 ![Captura de Tela (22)](https://github.com/user-attachments/assets/844464f4-a21a-4e3c-b555-7f54db141fca)
 
